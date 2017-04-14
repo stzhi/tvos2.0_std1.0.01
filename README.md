@@ -4,5 +4,4 @@ tvos2.0 version 1
 Creating a new branch is quick
 
 Creating the new branch "feature1" is quick AND simple.
-
 switched to a new branch 'dev'
