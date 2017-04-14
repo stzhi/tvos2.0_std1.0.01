@@ -7,4 +7,4 @@ Creating the new branch "feature1" is quick AND simple.
 switched to a new branch 'dev'
 add branch dev1
 
-test git stash
+dev2 modify readme
